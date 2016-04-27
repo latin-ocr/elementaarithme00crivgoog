@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./elementaarithme00crivgoog_0215.png"; bbox 0 0 900 1321; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 108 197 624 283">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 108 197 624 283">
+     <span class='ocr_line' id='line_1_1' title="bbox 108 197 624 248; baseline -0.017 -7"><span class='ocrx_word' id='word_1_1' title='bbox 108 221 140 248; x_wconf 78' lang='lat' dir='ltr'>qui</span> <span class='ocrx_word' id='word_1_2' title='bbox 155 221 194 240; x_wconf 80' lang='lat' dir='ltr'>sunt</span> <span class='ocrx_word' id='word_1_3' title='bbox 205 221 288 247; x_wconf 43' lang='lat' dir='ltr'>cant-mes</span> <span class='ocrx_word' id='word_1_4' title='bbox 299 216 389 243; x_wconf 74' lang='lat' dir='ltr'>generales</span> <span class='ocrx_word' id='word_1_5' title='bbox 399 214 420 244; x_wconf 48' lang='lat' dir='ltr'>ad-</span> <span class='ocrx_word' id='word_1_6' title='bbox 429 197 624 241; x_wconf 31' lang='lat' dir='ltr'>exprimendas&#39;ssqgn.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 108 241 554 273; baseline -0.018 -7"><span class='ocrx_word' id='word_1_7' title='bbox 108 247 136 273; x_wconf 51' lang='lat' dir='ltr'>las</span> <span class='ocrx_word' id='word_1_8' title='bbox 144 246 211 265; x_wconf 76' lang='lat' dir='ltr'>radices</span> <span class='ocrx_word' id='word_1_9' title='bbox 223 243 343 268; x_wconf 60' lang='lat' dir='ltr'>cujuscumque</span> <span class='ocrx_word' id='word_1_10' title='bbox 353 241 462 266; x_wconf 79' lang='lat' dir='ltr'>AEquauonis</span> <span class='ocrx_word' id='word_1_11' title='bbox 473 241 554 259; x_wconf 69' lang='lat' dir='ltr'><strong>Cubicae.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 343 270 532 283; baseline -0.016 -6"><span class='ocrx_word' id='word_1_12' title='bbox 343 271 349 283; x_wconf 59' lang='lat'><em>³</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 465 273 467 275; x_wconf 72' lang='grc'>,</span> <span class='ocrx_word' id='word_1_14' title='bbox 501 274 503 276; x_wconf 14' lang='grc' dir='ltr'>μ</span> <span class='ocrx_word' id='word_1_15' title='bbox 528 270 532 273; x_wconf 93' lang='grc'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
